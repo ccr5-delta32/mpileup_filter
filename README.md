@@ -1,3 +1,5 @@
+```procpile``` filters the output stream of mpileup down to only the read depths.
+
 ```
 g++ -std=c++11 -O3 procpile.cpp procpile.main.cpp -o procpile
 ```
