@@ -13,7 +13,6 @@ Here *bamlist* is a file with the paths to all the .bam files that should be
 included, in the same path the .bam index files should be present (.bam.bai)
 
 The result is a table with read depths like this, where from column 4 onward the read depths for the bams in the bamlist appear in the respective order.
-
 ```
 Chr1  3317906 A 49  17  13  
 Chr1  3317907 T 51  18  14  
