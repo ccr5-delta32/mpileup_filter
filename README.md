@@ -18,7 +18,7 @@ The result is a table with read depths like this, where from column 4 onward the
 The output of the example above looks like this:
 
 ```
-Chr1  3317906 A 49  17  13
-Chr1  3317907 T 51  18  14
-Chr1  3317908 T 49  18  13
+Chr1  3317906 A 49  17  13  
+Chr1  3317907 T 51  18  14  
+Chr1  3317908 T 49  18  13  
 ```
